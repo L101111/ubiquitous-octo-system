@@ -3,4 +3,4 @@
 <h3>To do that:</h3>
   $ sudo crontab -e
 
-<img src='https://github.com/L101111/ubiquitous-octo-system/blob/main/screen.png', width='400px'/>
+<img src='https://github.com/L101111/ubiquitous-octo-system/blob/main/screen.png' width='400px' />
