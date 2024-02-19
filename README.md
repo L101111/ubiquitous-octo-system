@@ -5,3 +5,7 @@
       $ sudo crontab -e
 
 <img src='https://github.com/L101111/ubiquitous-octo-system/blob/main/screen.png' width='600px' />
+
+<p>Now your system will automatically get updated every day at 12AM.</p>
+
+# Enjoy
