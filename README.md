@@ -6,7 +6,7 @@
 
 <img src='https://github.com/L101111/ubiquitous-octo-system/blob/main/screen.png' width='600px' />
       
-      $ 00 00 * * * /home/heisenberg/upd.sh
+      $ 00 00 * * * /path/to/upd.sh
       
 <p>Now your system will automatically get updated every day at 12AM.</p>
 
